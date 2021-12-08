@@ -1,0 +1,16 @@
+design03:SOL-dev jalcantara$ spl-token create-token
+Creating token 3gZZuBC4dGx2ByQExbVA93tJvbmAAjKFJ6sC5FT3xSF6
+Signature: iRdBXnuHXWLkSEo1geAeomtU8q5dhzhNVp9qD8VMBVHfGssMWiSgGTjWihEc9ruiqs4q59FBycjdvcSzAwoAwRu
+design03:SOL-dev jalcantara$ spl-token create-account 3gZZuBC4dGx2ByQExbVA93tJvbmAAjKFJ6sC5FT3xSF6
+Creating account HmsD3ztu6C8y4Bts6tMJXjJi3bXLPeewnrMX5uAsYECU
+Signature: 4jbRq8d2RDCvXtzdzR84hHQ4yk4uk6CXAnvw1rG6nUJB87Rxb6GsrbpTwZGSRRNpBwKgKiPtRMPiS3WnivAThmoe
+design03:SOL-dev jalcantara$ 
+
+
+
+
+sollet.io
+[148,147,71,203,140,244,92,16,2,105,59,76,63,89,91,82,20,182,171,208,222,88,141,76,252,49,234,70,40,193,76,242,228,83,191,139,77,40,174,149,194,106,210,65,177,17,95,32,235,108,223,27,131,227,38,111,85,107,138,129,208,33,66,228]
+
+GNJ2JVB4WXmVx6rfzzmV8vqPdJ769nZyVrv6qG3ffJPu
+
